@@ -1,0 +1,7 @@
+{
+  "name": "FP-Evaluator AI XXX",
+  "description": "Plataforma avanzada de corrección de exámenes para Formación Profesional con detección de errores conceptuales y análisis de esquemas técnicos mediante IA de Visión.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
